@@ -1,1 +1,6 @@
-OBJ/
+*.[od]
+*.axf
+*.crf
+*.htm
+*.lnp
+*.dep
